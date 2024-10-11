@@ -1,0 +1,1 @@
+Upload of lab 07 in class, consisting of 2D-arrays and for loops. Difference.java has loops go through the array to find the average of each row and prints which row had the lowest and the highest average. Magic.java is an magic sqaure array and prints the sum of the rows, columns, and diagonal values. 
